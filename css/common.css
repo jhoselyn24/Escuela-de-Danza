@@ -1,0 +1,68 @@
+header{
+	text-align: center;
+	padding: 50px;
+	margin: auto;
+}
+header h1 a{
+    text-align: center;
+    color: #192951;
+    text-decoration: none;
+}
+header nav{
+	margin-top: 30px;
+	margin-left: 100px;
+	margin-right: 30px;
+}
+header nav a{
+    text-decoration: none;
+    text-align: center;
+    color: silver;
+    margin-right: 80px;
+}
+header nav a:hover{
+    text-decoration: none;
+    text-align: center;
+    color: black;
+    margin-right: 80px;
+}
+.bg-ballet {
+    background: url(../img/shoes_1.jpg)no-repeat;
+    background-size: 60% 100%;
+    height: 450px;
+    background-position: 470px 0px;
+    padding: 80px 0px;
+}
+.text-contact{
+	font-size: 30px;
+	color:#192951;
+}
+input, .msn {
+	display: block;
+	width: 450px;
+	padding: 7px 34px;
+	margin: 12px 0px;
+	border-radius: 3px;
+	border: 1px #ccc solid;
+}
+.fa-envelope, .fa-pencil, .fa-user {
+	position: absolute;
+	margin: 8px 10px;
+}
+.enviar {
+	background-color: #192951;
+	color: white;
+	padding: 15px;
+	font-size: 15px;
+}
+footer{
+	background-color: #192951;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+footer p{
+	color: white;
+	margin-left: 30px;
+}
+body{
+	border-bottom: 5px solid silver;
+}

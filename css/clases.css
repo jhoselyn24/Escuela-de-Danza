@@ -1,0 +1,39 @@
+.bg_oferta{
+	background-image: url('../img/old_wall.png');
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.bg-clases{
+	height: 400px;
+	text-align: center;
+	padding:140px 10px;
+}
+.box-ballet{
+	padding: 25px 10px;
+	background: rgba(0,0,0,0.5);
+}
+.box-ballet p{
+	font-size: 15px;
+}
+.bg_oferta .col-4{
+	margin-top: 28px;
+}
+.ballet1{
+	background-image: url('../img/dance_12.jpg');
+}
+.ballet2{
+	background-image: url('../img/breakdance.jpg');
+}
+.ballet3{
+	background-image: url('../img/lirical-jazz.jpg');
+}
+.ballet4{
+	background-image: url('../img/arabe.jpg');
+}
+.ballet5{
+	background-image: url('../img/little.jpg');
+}
+.ballet6{
+	background-image: url('../img/yoga.jpg');
+}

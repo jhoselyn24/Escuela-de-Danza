@@ -1,0 +1,105 @@
+*{
+	font-family: "Latolight";
+}
+@font-face{
+	font-family: LatoHeavy;
+	src: url(../fonts/LatoHeavy.ttf);
+}
+@font-face{
+	font-family:Latolight ;
+	src: url(../fonts/Latolight.ttf);
+}
+@font-face{
+	font-family: DolceVita;
+	src: url(../fonts/DolceVita.ttf);
+}
+@font-face{
+	font-family: Neoteric-Bold;
+	src: url(../fonts/Neoteric-Bold.ttf);
+}
+
+.bg_nosotros{
+	background-image: url('../img/dance_7.jpg');
+	height: 400px;
+	background-position: 0% 40%;
+	padding-top: 120px;
+}
+.content_nos{
+	color: white;
+	width: 500px;
+	background: rgba(0,0,0,0.5);
+	padding: 40px;
+	margin:auto;
+}
+.content_nos p{
+	margin-top: 15px;
+}
+.bg-pilar{
+	background-image: url('../img/cubes.png');
+	text-align: center;
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+.bg-pilar .col-4{
+	text-align: center;
+}
+.bg-pilar h1, .bg-pilar p{
+	color: silver;
+}
+.bg-pilar p{
+	padding-left: 30px;
+	padding-right: 50px;
+}
+hr{
+	border-bottom: 0.5px solid gray;
+	width: 205px;
+	margin-left: 30px;
+}
+.header_ins{
+	padding-top: 70px;
+}
+.instructores .col-3{
+	margin-top: 70px;
+}
+.one{
+	height: 150px;
+	background-size: cover;
+	background-position: center 0%;
+}
+.content{
+	background-image: url('../img/profesor_4.jpg');
+}
+.instructores h3, .instructores p{
+	margin-top: 20px;
+}
+.content2{
+	background-image: url('../img/profesor_14.jpg');
+}
+.content3{
+	background-image: url('../img/profesor_1.jpg');
+}
+.content4{
+	background-image: url('../img/profesor_10.jpg');
+}
+.content5{
+	background-image: url('../img/profesor_11.jpg');
+}
+.content6{
+	background-image: url('../img/profesor_12.jpg');
+}
+.content7{
+	background-image: url('../img/profesor_9.jpg');
+}
+.content8{
+	background-image: url('../img/profesor_16.jpg');
+}
+.frase h1{
+	color: black;
+	font-size: 30px;
+}
+
+
+
+
+
+
